@@ -1,0 +1,9 @@
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe.config
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.exe
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\bin\Debug\ChessProject.pdb
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csprojResolveAssemblyReference.cache
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.Form1.resources
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.Properties.Resources.resources
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.csproj.GenerateResource.Cache
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.exe
+c:\users\darth\documents\visual studio 2013\Projects\ChessProject\ChessProject\obj\Debug\ChessProject.pdb
